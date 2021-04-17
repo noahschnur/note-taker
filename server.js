@@ -1,4 +1,5 @@
 const express = require('express');
+const addRequestId = require('express-request-id')();
 
 const PORT = process.env.PORT || 3001;
 const app = express();
@@ -8,6 +9,7 @@ const htmlRoutes = require('./routes/htmlRoutes');
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static('public'));
+app.use(addRequestId);
 
 // use apiRoutes
 app.use('/api', apiRoutes);
