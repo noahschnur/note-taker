@@ -14,6 +14,7 @@ A node express application that helps users write and delete notes to keep track
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+- [Links](#links)
 
 ## Installation
 
@@ -34,6 +35,8 @@ N/A
 ## Questions
 
 noahschnur@gmail.com, https://github.com/noahschnur
+
+## Links
 
 https://github.com/noahschnur/note-taker
 
