@@ -37,4 +37,4 @@ noahschnur@gmail.com, https://github.com/noahschnur
 
 https://github.com/noahschnur/note-taker
 
-ADD URL WHEN WORKING
+https://noahschnur.github.io/note-taker/
