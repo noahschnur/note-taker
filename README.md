@@ -34,7 +34,9 @@ N/A
 
 ## Questions
 
-noahschnur@gmail.com, https://github.com/noahschnur
+noahschnur@gmail.com
+
+https://github.com/noahschnur
 
 ## Links
 
