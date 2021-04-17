@@ -25,7 +25,7 @@ Click on the "Get Started" button on the homepage, then write your note. Click t
 
 ## Contributions
 
-undefined
+N/A
 
 ## Tests
 
